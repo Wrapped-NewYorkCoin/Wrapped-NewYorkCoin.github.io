@@ -1,1 +1,1 @@
-# Wrapped-NewYorkCoin.github.io
+# Wrapped NewYorkCoin
