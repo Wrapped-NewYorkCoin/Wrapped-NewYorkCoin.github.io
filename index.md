@@ -135,7 +135,7 @@
                     <div><i class="fas fa-6x fa-balance-scale mb-5 tm-section-icon"></i></div>
                     <h2 class="tm-section-title tm-color-primary mb-5">Mission</h2>
                     <p class="mb-5">
-                      With wrapping a coin under other coins like BNB, ETH or TRX it allows usto be able to create a bridge between these networks to allow users to interact within these ecosystems using Wrapped NewYorkCoin (WNYC)
+                      With wrapping a coin under other coins like BNB, ETH or TRX it allows us to be able to create a bridge between these networks to allow users to interact within these ecosystems using Wrapped NewYorkCoin (WNYC)
                     </p>
                     <p>
                       We are currently intergrated within the Binance Smart Chain (BSC) ecosystem of Binance Coin (BNB)
@@ -333,7 +333,7 @@
                     <div class="tm-double-border-2 tm-border-gray tm-box-pad">
                         <h2 class="tm-color-primary tm-section-title mb-4">Talk to Us</h2>
                         <p class="mb-4">
-                          If you would like to learn more about Wrappe NewYorkCoin (WNYC) then come and join us on <a href="https://discord.gg/jgkgR7YsgZ">Discord</a>
+                          If you would like to learn more about Wrapped NewYorkCoin (WNYC) then come and join us on <a href="https://discord.gg/jgkgR7YsgZ">Discord</a>
                         </p>
                     </div>
                   </div>
