@@ -265,21 +265,22 @@
             <section id="exchanges" class="row tm-section">
               <div class="col-12 tm-section-pad">
                   <div class="tm-flex-item-left">
-                      <div class="tm-w-80">
-                          <h2 class="tm-color-primary tm-section-title mb-4">Exchanges</h2>
+                  <div class="tm-w-80">
+                      <h2 class="tm-color-primary tm-section-title mb-4">Exchanges</h2>
 
-                          <p>
-                            Wrapped NewYorkCoin is currently listed on <a href="https://exchange.pancakeswap.finance/#/swap">Pancake Swap</a> with a BNB pairing.
-                          </p>
-                          <p>
-                            If WNYC is not showing in the list you will need to add it using the <br>contract address : <b><mark style="background: rgb(0, 0, 204);color: white;">0x6c015277b0f9b8c24b20bd8bbbd29fdb25738a69</mark></b><br>
-                          </p>
-                          <p>
-                            If you are unsure on how to trade on this exchange please see the video <a href="https://youtu.be/jNS7YZEWR6M">here</a>.
-                          </p>
-
-
-                      </div>
+                      <p>
+                        Wrapped NewYorkCoin is currently listed on <a href="https://exchange.pancakeswap.finance/#/swap">Pancake Swap</a> with a BNB pairing.
+                      </p>
+                      <p>
+                        If WNYC is not showing in the list you will need to add it using the <br>contract address : <b><mark style="background: rgb(0, 0, 204);color: white;">0x6c015277b0f9b8c24b20bd8bbbd29fdb25738a69</mark></b><br>
+                      </p>
+                      <p>
+                        If you are unsure on how to trade on this exchange please see the video <a href="https://youtu.be/jNS7YZEWR6M">here</a>.
+                      </p>
+                      <p>
+                        Wrapped NewYorkCoin is currently listed on <a href="https://1inch.exchange/#/WNYC/1INCH?network=56">1inch.exchange</a> with a 1inch pairing.
+                      </p>
+                  </div>
                   </div>
               </div>
             </section>
