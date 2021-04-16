@@ -315,13 +315,13 @@
                           <h2 class="tm-color-primary tm-section-title mb-4">Liquidity Pools</h2>
 
                           <p>
-                            Wrapped NewYorkCoin is currently listed on <a href="https://exchange.pancakeswap.finance/#/add/0x6c015277B0f9b8c24B20BD8BbbD29FDb25738A69/BNB">Pancake Swap</a> with a BNB pairing.
+                            Wrapped NewYorkCoin is currently listed on Pancake Swap with a <a href="https://exchange.pancakeswap.finance/#/add/0x6c015277B0f9b8c24B20BD8BbbD29FDb25738A69/BNB">BNB</a> pairing and a <a href="https://exchange.pancakeswap.finance/#/add/0x6c015277B0f9b8c24B20BD8BbbD29FDb25738A69/BNB">BUSD</a>.
                           </p>
                           <p>
                             If WNYC is not showing in the list you will need to add it using the <br>contract address : <b><mark style="background: rgb(0, 0, 204);color: white;">0x6c015277b0f9b8c24b20bd8bbbd29fdb25738a69</mark></b><br>
                           </p>
                           <p>
-                            To add liquidity you must add both WNYC and BNB
+                            To add liquidity you must add both WNYC and BNB or WNYC and BUSD
                           </p>
 
 
