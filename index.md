@@ -144,7 +144,7 @@
                       With wrapping a coin under other coins like BNB, ETH or TRX it allows us to be able to create a bridge between these networks to allow users to interact within these ecosystems using Wrapped NewYorkCoin (WNYC)
                     </p>
                     <p>
-                      We are currently intergrated within the Binance Smart Chain (BSC) ecosystem of Binance Coin (BNB)
+                      We are currently integrated within the Binance Smart Chain (BSC) ecosystem of Binance Coin (BNB)
                     </p>
 
                 </div>
