@@ -64,6 +64,12 @@
                   </a>
                 </li>
                 <li class="nav-item">
+                  <a href="#pricetracker" class="nav-link">
+                    <span class="d-inline-block mr-3">Price Tracker</span>
+                    <span class="d-inline-block tm-white-rect"></span>
+                  </a>
+                </li>
+                <li class="nav-item">
                   <a href="#exchanges" class="nav-link">
                     <span class="d-inline-block mr-3">Exchanges</span>
                     <span class="d-inline-block tm-white-rect"></span>
@@ -268,6 +274,21 @@
           </div>
 
           <div class="tm-section-wrap bg-white">
+            <section id="pricetracker" class="row tm-section">
+              <div class="col-12 tm-section-pad">
+                  <div class="tm-flex-item-left">
+                      <div class="tm-w-80">
+                          <h2 class="tm-color-primary tm-section-title mb-4">Price Tracker</h2>
+                          <p>
+                            Wrapped NewYorkCoin is listed on <a href="https://coinpaprika.com/coin/wnyc-wrapped-newyorkcoin/">CoinPaprika</a>.
+                          </p>
+                      </div>
+                  </div>
+              </div>
+            </section>
+          </div>
+
+          <div class="tm-section-wrap bg-white">
             <section id="exchanges" class="row tm-section">
               <div class="col-12 tm-section-pad">
                   <div class="tm-flex-item-left">
@@ -275,7 +296,7 @@
                           <h2 class="tm-color-primary tm-section-title mb-4">Exchanges</h2>
 
                           <p>
-                            Wrapped NewYorkCoin is currently listed on <a href="https://exchange.pancakeswap.finance/#/swap?inputCurrency=0x6c015277b0f9b8c24b20bd8bbbd29fdb25738a69">Pancake Swap</a> with a BNB pairing.
+                            Wrapped NewYorkCoin is currently listed on <a href="https://exchange.pancakeswap.finance/#/swap?inputCurrency=0x6c015277b0f9b8c24b20bd8bbbd29fdb25738a69">Pancake Swap</a> with a BNB and BUSD pairing.
                           </p>
                           <p>
                             If WNYC is not showing in the list you will need to add it using the <br>contract address : <b><mark style="background: rgb(0, 0, 204);color: white;">0x6c015277b0f9b8c24b20bd8bbbd29fdb25738a69</mark></b><br>
@@ -285,6 +306,12 @@
                           </p>
                           <p>
                             Wrapped NewYorkCoin is currently listed on <a href="https://1inch.exchange/#/WNYC/1INCH?network=56">1inch.exchange</a> with a 1inch pairing.
+                          </p>
+                          <p>
+                            Wrapped NewYorkCoin is currently listed on <a href="https://swape.koaladefi.finance/#/swap?inputCurrency=0x6c015277b0f9b8c24b20bd8bbbd29fdb25738a69">koaladefi.finance</a> with a BUSD pairing.
+                          </p>
+                          <p>
+                            Wrapped NewYorkCoin is currently listed on <a href="https://dex.apeswap.finance/#/swap?inputCurrency=0x6c015277b0f9b8c24b20bd8bbbd29fdb25738a69">apeswap.finance</a> with a BUSD pairing.
                           </p>
                       </div>
                   </div>
@@ -316,6 +343,12 @@
 
                           <p>
                             Wrapped NewYorkCoin is currently listed on Pancake Swap with a <a href="https://exchange.pancakeswap.finance/#/add/0x6c015277B0f9b8c24B20BD8BbbD29FDb25738A69/BNB">BNB</a> pairing and a <a href="https://exchange.pancakeswap.finance/#/add/0x6c015277B0f9b8c24B20BD8BbbD29FDb25738A69/BNB">BUSD</a>.
+                          </p>
+                          <p>
+                            Wrapped NewYorkCoin is currently listed on koaladefi.finance with a <a href="https://swape.koaladefi.finance/#/add/0x6c015277B0f9b8c24B20BD8BbbD29FDb25738A69/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56">BUSD pairing</a>.
+                          </p>
+                          <p>
+                            Wrapped NewYorkCoin is currently listed on Pancake Swap with a <a href="https://dex.apeswap.finance/#/add/0x6c015277B0f9b8c24B20BD8BbbD29FDb25738A69/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56">BUSD pairing</a>.
                           </p>
                           <p>
                             If WNYC is not showing in the list you will need to add it using the <br>contract address : <b><mark style="background: rgb(0, 0, 204);color: white;">0x6c015277b0f9b8c24b20bd8bbbd29fdb25738a69</mark></b><br>
