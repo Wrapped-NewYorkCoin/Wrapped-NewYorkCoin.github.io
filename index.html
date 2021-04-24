@@ -296,7 +296,7 @@
                           <h2 class="tm-color-primary tm-section-title mb-4">Exchanges</h2>
 
                           <p>
-                            Wrapped NewYorkCoin is currently listed on <a href="https://exchange.pancakeswap.finance/#/swap?inputCurrency=0x6c015277b0f9b8c24b20bd8bbbd29fdb25738a69">Pancake Swap</a> with a BNB and BUSD pairing.
+                            Wrapped NewYorkCoin is currently listed on <a href="https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x6c015277b0f9b8c24b20bd8bbbd29fdb25738a69">Pancake Swap</a> with a BNB and BUSD pairing.
                           </p>
                           <p>
                             If WNYC is not showing in the list you will need to add it using the <br>contract address : <b><mark style="background: rgb(0, 0, 204);color: white;">0x6c015277b0f9b8c24b20bd8bbbd29fdb25738a69</mark></b><br>
@@ -308,10 +308,10 @@
                             Wrapped NewYorkCoin is currently listed on <a href="https://1inch.exchange/#/WNYC/1INCH?network=56">1inch.exchange</a> with a 1inch pairing.
                           </p>
                           <p>
-                            Wrapped NewYorkCoin is currently listed on <a href="https://swape.koaladefi.finance/#/swap?inputCurrency=0x6c015277b0f9b8c24b20bd8bbbd29fdb25738a69">koaladefi.finance</a> with a BUSD pairing.
+                            Wrapped NewYorkCoin is currently listed on <a href="https://swape.koaladefi.finance/#/swap?outputCurrency=0x6c015277b0f9b8c24b20bd8bbbd29fdb25738a69">koaladefi.finance</a> with a BUSD pairing.
                           </p>
                           <p>
-                            Wrapped NewYorkCoin is currently listed on <a href="https://dex.apeswap.finance/#/swap?inputCurrency=0x6c015277b0f9b8c24b20bd8bbbd29fdb25738a69">apeswap.finance</a> with a BUSD pairing.
+                            Wrapped NewYorkCoin is currently listed on <a href="https://dex.apeswap.finance/#/swap?outputCurrency=0x6c015277b0f9b8c24b20bd8bbbd29fdb25738a69">apeswap.finance</a> with a BUSD pairing.
                           </p>
                       </div>
                   </div>
