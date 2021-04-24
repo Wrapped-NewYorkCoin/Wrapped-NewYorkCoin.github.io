@@ -311,7 +311,7 @@
                             Wrapped NewYorkCoin is currently listed on <a href="https://swape.koaladefi.finance/#/swap?outputCurrency=0x6c015277b0f9b8c24b20bd8bbbd29fdb25738a69">koaladefi.finance</a> with a BUSD pairing.
                           </p>
                           <p>
-                            Wrapped NewYorkCoin is currently listed on <a href="https://dex.apeswap.finance/#/swap?outputCurrency=0x6c015277b0f9b8c24b20bd8bbbd29fdb25738a69">apeswap.finance</a> with a BUSD pairing.
+                            Wrapped NewYorkCoin is currently listed on <a href="https://dex.apeswap.finance/#/swap?outputCurrency=0x6c015277b0f9b8c24b20bd8bbbd29fdb25738a69">apeswap.finance</a> with a BUSD pairing and a <a href="https://dex.apeswap.finance/#/swap?outputCurrency=0x6c015277b0f9b8c24b20bd8bbbd29fdb25738a69">BNB</a> pairing .
                           </p>
                       </div>
                   </div>
@@ -348,7 +348,7 @@
                             Wrapped NewYorkCoin is currently listed on koaladefi.finance with a <a href="https://swape.koaladefi.finance/#/add/0x6c015277B0f9b8c24B20BD8BbbD29FDb25738A69/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56">BUSD pairing</a>.
                           </p>
                           <p>
-                            Wrapped NewYorkCoin is currently listed on Pancake Swap with a <a href="https://dex.apeswap.finance/#/add/0x6c015277B0f9b8c24B20BD8BbbD29FDb25738A69/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56">BUSD pairing</a>.
+                            Wrapped NewYorkCoin is currently listed on Pancake Swap with a <a href="https://dex.apeswap.finance/#/add/0x6c015277B0f9b8c24B20BD8BbbD29FDb25738A69/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56">BUSD pairing</a> and a <a href="https://dex.apeswap.finance/#/add/0x6c015277B0f9b8c24B20BD8BbbD29FDb25738A69/ETH">BNB</a> Pairing.
                           </p>
                           <p>
                             If WNYC is not showing in the list you will need to add it using the <br>contract address : <b><mark style="background: rgb(0, 0, 204);color: white;">0x6c015277b0f9b8c24b20bd8bbbd29fdb25738a69</mark></b><br>
