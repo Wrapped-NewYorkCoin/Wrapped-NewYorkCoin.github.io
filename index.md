@@ -267,6 +267,9 @@
                           <p>
                             <strong>STEP 9:</strong>  Then click next and follow rest of the steps MetaMask asks of you
                           </p>
+			          
+			      
+			      <p> You can add our logo to metamask by clicking <a href="https://bit.ly/3hfmNqH">here</a>.</p> 
                       </div>
                   </div>
               </div>
