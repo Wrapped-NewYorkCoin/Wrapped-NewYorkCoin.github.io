@@ -4,12 +4,15 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-
-
     <meta name = "keywords" content = "Crypto, WNYC, Wrapped-NewYorkCoin" />
     <meta name = "description" content = "Wrapped-NewYorkCoin" />
 	  <meta name = "revised" content = "Wrapped-NewYorkCoin, March 29, 2021" />
+    
 
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://wrapped-newyorkcoin.github.io/" />
+    <meta property="og:image" content="https://wrapped-newyorkcoin.github.io/img/favicon.png" />
+    <meta property="og:description" content="WNYC stands for Wrapped NewYorkCoin, This Connector Adds the BSC mainnet to metamask if you don't already have it along with Wrapped NewYorkCoin and logo" />
 
     <title>Wrapped NewYorkCoin</title>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,600" />
